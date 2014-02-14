@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+
+.hidden {
+  display: none;
+}
+
+.hackentines-day-card-container {
+  width: 500px;
+  height: 200px;
+  margin: 40px auto;
+  background-color: #E1E1E1;
+  padding: 100px 25px 300px 25px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.swatch {
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+}
+
+.chargers_navy_background {
+  background-color: #08214A;
+}
+
+.chargers_gold {
+  color: #EEC607;
+}
+
+.chargers_blue_background {
+  background-color: #5B92E5;
+}
+
+.chargers_icon {
+  background: url("../images/chargers.png") no-repeat;
+  height: 250px;
+  margin: 80px;
+  margin-top: -100px;
+}
+
+.alfa-font {
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.nova-font {
+  font-family: 'Nova Mono', cursive;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.centered {
+    text-align: center;
+}
+
